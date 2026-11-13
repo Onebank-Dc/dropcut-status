@@ -1,9 +1,9 @@
 {
  "data": {
-  "seq": 202611131943,
+  "seq": 202611131953,
   "date": "2026-11-13",
   "revoked": [],
   "message": ""
  },
- "sig": "f7e1cb4ffc80454f9831979cc13f51185c7550f132b7f2e0e4dd40e37b2ae4686bb793b2f400b939a88d8b586df0cf403552569e1c493d3741bbd2a4c7107c07"
+ "sig": "354b8c9ca1dec353bee27c389f98ea01e75f80ff26f8fa1fa7d23358a2bdbbc5bcfbebacb4a52d8f479a967ca9e6c8a8cbab33b31de29ca9c5038bb301fa4302"
 }
